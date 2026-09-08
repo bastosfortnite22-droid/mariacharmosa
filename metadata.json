@@ -1,0 +1,6 @@
+{
+  "name": "Studio Maria Chamosa",
+  "description": "Studio Maria Chamosa em Cavaleiros, Macaé. Serviços de cabelo, unhas, sobrancelhas e estética. Agende seu horário pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
